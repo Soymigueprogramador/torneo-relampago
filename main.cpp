@@ -12,7 +12,7 @@ using namespace std;
 
 // ¿ Que hace esta funcion ?
 /*
-    Muestra el menu y ejecuta tdo el proyecto 
+    Muestra el menu y ejecuta tdo el proyecto
 */
 
 int main()
